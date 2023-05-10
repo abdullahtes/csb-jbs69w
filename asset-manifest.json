@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://abdullahtes.github.io/csb-jbs69w/static/css/main.fc5c2c69.css",
+    "main.js": "https://abdullahtes.github.io/csb-jbs69w/static/js/main.9df817c0.js",
+    "index.html": "https://abdullahtes.github.io/csb-jbs69w/index.html",
+    "main.fc5c2c69.css.map": "https://abdullahtes.github.io/csb-jbs69w/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://abdullahtes.github.io/csb-jbs69w/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
